@@ -1,0 +1,6 @@
+setup.py
+Data_Science_Project.egg-info/PKG-INFO
+Data_Science_Project.egg-info/SOURCES.txt
+Data_Science_Project.egg-info/dependency_links.txt
+Data_Science_Project.egg-info/requires.txt
+Data_Science_Project.egg-info/top_level.txt

@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: Data-Science-Project
+Version: 0.0.1
+Author: Dinesh Jangir
+Author-email: dineshjangir887766@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
