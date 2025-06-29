@@ -1,4 +1,4 @@
-# Model Evaluation on Classification Models
+# Model Evaluation and Hyperparameter Tuning 
 
 This project demonstrates **model evaluation techniques** for classification models using standard metrics and visualizations.  
 The goal is to assess the performance of machine learning models and understand their strengths and weaknesses through various evaluation methods.
@@ -42,4 +42,5 @@ Model_Evaluation/
 ├── evaluation_metrics.py  # Script to compute evaluation metrics
 ├── visualize_results.py   # Script to generate plots
 ├── requirements.txt       # Python dependencies
+├── setup.py               # Setup.py 
 └── README.md              # Project description
